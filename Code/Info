@@ -1,0 +1,3 @@
+This folder contains code for loading data, creating CNN model, training model, saving best weights,and loading that weights 
+again in same CNN model so that whole model archtecture with weights can be saved, so that it can be used again for prediction
+or recognization of numbers in sign language.
